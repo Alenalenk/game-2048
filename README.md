@@ -32,12 +32,12 @@ To launch the project locally, follow these steps:
    cd game-2048
    
 2. **Install the dependencies**:
-If you are using NPM: npm install
-If you are using Yarn: yarn install
+  If you are using NPM: npm install
+  If you are using Yarn: yarn install
 
-3. **Start the development server**:
-If you are using NPM: npm start
-If you are using Yarn: yarn start
+4. **Start the development server**:
+  If you are using NPM: npm start
+  If you are using Yarn: yarn start
 
 Open your browser.
 You should now see the 2048 game running in your browser.
