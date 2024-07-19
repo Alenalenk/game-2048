@@ -35,7 +35,7 @@ To launch the project locally, follow these steps:
   If you are using NPM: npm install
   If you are using Yarn: yarn install
 
-4. **Start the development server**:
+4. **Start the development server**: <br>
   If you are using NPM: npm start
   If you are using Yarn: yarn start
 
