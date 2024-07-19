@@ -31,11 +31,11 @@ To launch the project locally, follow these steps:
    git clone https://github.com/Alenalenk/game-2048.git
    cd game-2048
    
-Install the dependencies:
+2. **Install the dependencies**:
 If you are using NPM: npm install
 If you are using Yarn: yarn install
 
-Start the development server:
+3. **Start the development server**:
 If you are using NPM: npm start
 If you are using Yarn: yarn start
 
