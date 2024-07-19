@@ -31,13 +31,13 @@ To launch the project locally, follow these steps:
    git clone https://github.com/Alenalenk/game-2048.git
    cd game-2048
    
-2. **Install the dependencies**:
-  If you are using NPM: npm install
-  If you are using Yarn: yarn install
+2. **Install the dependencies**:<br>
+  If you are using NPM: npm install<br>
+  If you are using Yarn: yarn install<br>
 
 4. **Start the development server**: <br>
-  If you are using NPM: npm start
-  If you are using Yarn: yarn start
+  If you are using NPM: npm start<br>
+  If you are using Yarn: yarn start<br>
 
 Open your browser.
 You should now see the 2048 game running in your browser.
